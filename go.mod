@@ -1,4 +1,4 @@
-module github.com/kudelskisecurity/crystals-go
+module github.com/pedroalbanese/crystals-go
 
 go 1.16
 
